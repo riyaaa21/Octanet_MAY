@@ -1,0 +1,28 @@
+
+
+.priority-high {
+    color: red;
+    font-weight: bold;
+}
+
+.priority-medium {
+    color: orange;
+}
+
+.priority-low {
+    color: green;
+}
+
+.label-urgent {
+    background-color: #ff8080;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 3px;
+}
+
+.label-important {
+    background-color: #ffcc66;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 3px;
+}
